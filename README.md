@@ -1,2 +1,2 @@
-# npstorey.github.io
+# nathanstorey.github.io
 Personal website of Nathan Storey
