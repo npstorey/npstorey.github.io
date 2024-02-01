@@ -1,1 +1,7 @@
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
+title: Nathan Storey
+description: "Civic Technologist // Urban Planner // Product Manager"
+
+# Optional: Define navigation links
+# This part might vary depending on how the theme and your site are structured,
+# and might require custom HTML or additional plugins for navigation.
