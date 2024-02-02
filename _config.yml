@@ -1,7 +1,12 @@
-remote_theme: pages-themes/jekyll-now
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+
+# Your site title and description
 title: Nathan Storey
 description: "Civic Technologist // Urban Planner // Product Manager"
 
 # Optional: Define navigation links
-# This part might vary depending on how the theme and your site are structured,
-# and might require custom HTML or additional plugins for navigation.
+# This will be configured more in detail below
