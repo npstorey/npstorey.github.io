@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+[HOME](/) | [PROJECTS](/projects/) | [ABOUT](/about/) | [CONTACT](/contact/)
+
 # About Me
 
 I am an urban planner, civic technologist, open data junkie, map geek, and small d democracy nerd. As a Senior Project Manager for the NYC Mayor's Office of Operations, I work on HOME-STAT, New York City's street homelessness initiative.
