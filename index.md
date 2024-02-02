@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Nathan Storey
 permalink: /
 author_profile: true
 ---
