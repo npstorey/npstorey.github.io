@@ -7,5 +7,5 @@ author_profile: true
 
 # About Me
 
-I am an urban planner, civic technologist, open data junkie, map geek, and small d democracy nerd. As a Senior Project Manager for the NYC Mayor's Office of Operations, I work on HOME-STAT, New York City's street homelessness initiative.
+I am an urban planner, civic technologist, open data junkie, map geek, and small d democracy nerd. I currently work on digital products and data analsysis for the New York City Department of Homeless Services.
 Previous projects include Civic Roam, Fearless Cities NYC Summit 2018, IDNYC, CivicDashboards, City Atlas, ioby.org, and VoteScope. I have a Masters degree in Urban Planning with a concentration in GIS and civic technology from Hunter College.
