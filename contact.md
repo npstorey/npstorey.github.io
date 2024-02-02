@@ -7,9 +7,9 @@ author_profile: true
 
 ## How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/npstorey))
-- **Twitter**: [@YourTwitterHandle]([https://twitter.com/YourTwitterHandle](https://twitter.com/npstorey?lang=en))
-- **GitHub**: [Your GitHub Profile]([https://github.com/yourusername](https://github.com/npstorey))
+- **LinkedIn**: [linkedin.com/in/npstory](https://www.linkedin.com/in/npstorey)
+- **Twitter**: [@npstorey](https://twitter.com/npstorey?lang=en)
+- **GitHub**: [github.com/npstorey](https://github.com/npstorey)
 
 ## Contact Form
 
