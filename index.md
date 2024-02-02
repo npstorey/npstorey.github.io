@@ -1,14 +1,11 @@
 ---
-layout: default
-title: Home
+layout: single
+title: Nathan Storey
 permalink: /
+author_profile: true
 ---
 
-[HOME](/) | [PROJECTS](/projects/) | [ABOUT](/about/) | [CONTACT](/contact/)
-
-# Nathan Storey
-
-Current interests:
+## Current interests:
 
 - Municipalism
 - Deliberative Democracy
