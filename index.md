@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Nathan Storey
+title: Home
+permalink: /
 ---
 
-# Nathan Storey
-
-## Civic Technologist // Urban Planner // Product Manager
+[HOME](/) | [PROJECTS](/projects/) | [ABOUT](/about/) | [CONTACT](/contact/)
 
 Current interests:
 
