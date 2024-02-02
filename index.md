@@ -6,6 +6,8 @@ permalink: /
 
 [HOME](/) | [PROJECTS](/projects/) | [ABOUT](/about/) | [CONTACT](/contact/)
 
+# Nathan Storey
+
 Current interests:
 
 - Municipalism
