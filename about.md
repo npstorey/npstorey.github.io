@@ -1,10 +1,9 @@
 ---
-layout: default
-title: About
+layout: single
+title: "About Me"
 permalink: /about/
+author_profile: true
 ---
-
-[HOME](/) | [PROJECTS](/projects/) | [ABOUT](/about/) | [CONTACT](/contact/)
 
 # About Me
 
