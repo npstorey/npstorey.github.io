@@ -8,7 +8,7 @@ author_profile: true
 ## Current interests:
 
 - Municipalism
+- Data Governance
+- Generative AI
 - Deliberative Democracy
-- Open data science
-- Large Language Models
 - Eau-de-Vie
