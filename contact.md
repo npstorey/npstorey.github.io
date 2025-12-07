@@ -5,10 +5,12 @@ permalink: /contact/
 author_profile: true
 ---
 
-## How to Reach Me
+I'm happy to hear from people working on civic data, digital services, experimental games/interfaces, or weird intersections of those.
 
-- **LinkedIn**: [linkedin.com/in/npstorey](https://www.linkedin.com/in/npstorey)
-- **GitHub**: [github.com/npstorey](https://github.com/npstorey)
+## How to reach me
+
+- **LinkedIn**: [linkedin.com/in/npstorey](https://www.linkedin.com/in/npstorey){:target="_blank" rel="noopener noreferrer"}
+- **GitHub**: [github.com/npstorey](https://github.com/npstorey){:target="_blank" rel="noopener noreferrer"}
 
 ## Contact Form
 

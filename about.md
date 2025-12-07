@@ -1,28 +1,35 @@
 ---
 layout: single
-title: "About Me"
+title: "About"
 permalink: /about/
 author_profile: true
 ---
 
-I'm a data governance and digital services leader with over 10 years of experience in NYC government, focused on open data, AI integration, and human-centered design.
+I work in New York City government on data governance and digital services. My work spans civic data infrastructure, digital tools and platforms, and experimental games and interfaces - how I learn new tools and prototype ideas.
+
+I'm an urban planner by training, a civic technologist by practice, and a small-d democracy nerd at heart.
+
+### CV
+
+[View my resume](https://nathanstorey.com/resume/){:target="_blank"}
 
 ## Current Role
 
 **Director of Data Governance** at the NYC Office of Technology & Innovation (since February 2024)
 
-- Consolidated 8 fragmented agency lists into a public reference dataset of 303 entities, now supporting the NYC.gov Agency Directory
+- Built the City's first standardized open dataset of NYC agencies - combined 8 scattered internal lists into one public reference of 303 entities, now powers the NYC.gov Agency Directory
 - Co-developed MetaCat, an internal metadata catalog with 325+ data assets across 21 agencies
-- Trained 400+ city staff on WorkerConnect, a cross-agency data-sharing platform
-- Created open-source tools enabling AI to query NYC Open Data APIs
+- Created open-source tools that let AI systems query NYC Open Data APIs
 
 ## Previous Experience
 
-**Executive Director of Data & Analytics** at the NYC Department of Homeless Services (2018-2024)
+**Executive Director of Data & Analytics** at the NYC Department of Homeless Services (2018–2024)
 
-- Founded the Street Homeless Solutions Lab focused on user-centered service design
-- Led participatory policy co-creation engaging 300+ staff across 17 programs
-- Conducted racial equity analysis that secured 700-800 additional supportive housing units for New Yorkers
+- Led a user-centered design lab at NYC Department of Homeless Services (2020-2024)
+- Ran participatory policy co-creation with 300+ staff across 17 programs
+- Conducted racial equity analysis that secured 700-800 additional supportive housing units
+
+Co-organized Fearless Cities North America conference (2024), bringing together 500+ municipalist organizers, elected officials, and activists.
 
 Earlier roles include Senior Project Specialist at the Mayor's Office, Data Analyst for IDNYC, and Product Manager at Ontodia.
 
@@ -31,10 +38,8 @@ Earlier roles include Senior Project Specialist at the Mayor's Office, Data Anal
 - M.U.P. Urban Planning, Hunter College (2013)
 - B.A. Media Arts & Studies, Wayne State University (2006)
 
-## Skills
+## Elsewhere
 
-**Expertise:** Data governance, open data, open government, digital service delivery, AI integration, metadata catalogs, data privacy
-
-**Leadership:** Program management, human-centered design, change management, stakeholder engagement, training
-
-**Technical:** Python, SQL, QGIS/ArcGIS, Socrata APIs, OpenAI/Anthropic APIs, Git, HTML/CSS/JavaScript
+- [GitHub](https://github.com/npstorey){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/npstorey){:target="_blank"}
+- [Medium](https://medium.com/@npstorey){:target="_blank"}

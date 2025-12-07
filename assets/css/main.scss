@@ -1,9 +1,43 @@
 ---
 ---
 
+// NYC-ish teal accent
+$link-color: #1a7f7f;
+$link-color-hover: #135c5c;
+$masthead-link-color: #1a7f7f;
+$masthead-link-color-hover: #135c5c;
+
 @import "minimal-mistakes";
 
-/* CSS to hide the homepage title */
+/* Hide homepage title */
 .page__title {
   display: none;
+}
+
+/* Subtle styling for status tags */
+.page__content em {
+  /* Keep italics but don't make status tags too prominent */
+}
+
+/* Make the TOC feel more intentional */
+.toc__menu a {
+  font-size: 0.85em;
+}
+
+/* Heading hierarchy for projects page */
+.page__content h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid #e1e1e1;
+  padding-bottom: 0.3em;
+}
+
+.page__content h3 {
+  font-size: 1.1em;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.25em;
+  color: #333;
 }
