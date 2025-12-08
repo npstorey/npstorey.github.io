@@ -41,3 +41,8 @@ $masthead-link-color-hover: #135c5c;
   margin-bottom: 0.25em;
   color: #333;
 }
+
+/* Hide Follow button in author profile */
+.author__urls-wrapper button {
+  display: none;
+}
