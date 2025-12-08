@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll  # commented out for GitHub Pages compatibility
 
 # Plugins
 plugins:
