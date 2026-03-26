@@ -11,9 +11,9 @@ toc_sticky: true
 This page is an index. Links go to GitHub, blog posts, or public datasets - wherever the work lives.
 
 To get a sense of what I work on, start with:
+- [Civic AI Tools](#civic-ai-tools) - AI-powered civic data discovery
+- [Vibe Coding Simulator](#vibe-coding-simulator) - satirical game about AI-assisted development
 - [NYC Agencies & Governance Organizations](#nyc-agencies--governance-organizations) - building reference data infrastructure
-- [Day One for NYC](#day-one-for-nyc) - independent guide to governing NYC
-- [Civic AI Tools](#civic-ai-tools) - AI tools for civic data discovery
 
 ---
 
@@ -53,9 +53,9 @@ Internal metadata catalog containing 325+ data assets across 21 NYC agencies. Im
 
 ### Civic AI Tools
 
-Collection of MCP servers and skills for working with civic data. Includes tools for NYC Open Data and US Census data - packaged together to make city datasets and census data accessible to AI systems.
+Open-source platform connecting AI assistants to government open data via MCP. Supports all 559 Socrata open data portals, includes a curated civic MCP directory, an anti-hallucination framework for grounding AI responses in real data, and a model evaluation framework. Built to make civic data accessible and trustworthy for AI systems.
 
-**Links:** [GitHub (civic-ai-tools)](https://github.com/npstorey/civic-ai-tools){:target="_blank"} · [GitHub (opengov-mcp-server)](https://github.com/npstorey/opengov-mcp-server){:target="_blank"}
+**Links:** [civicaitools.org](https://civicaitools.org){:target="_blank"} · [GitHub (civic-ai-tools)](https://github.com/npstorey/civic-ai-tools){:target="_blank"} · [GitHub (opengov-mcp-server)](https://github.com/npstorey/opengov-mcp-server){:target="_blank"}
 
 ### NYC Traffic Anomaly Detection
 

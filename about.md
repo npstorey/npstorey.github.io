@@ -13,13 +13,17 @@ I'm an urban planner by training, a civic technologist by practice, and a small-
 
 [View my resume](https://nathanstorey.com/resume/){:target="_blank"}
 
+## Current Side Projects
+
+- **[Civic AI Tools](https://civicaitools.org){:target="_blank"}** — Open-source platform connecting AI assistants to government open data via MCP. Supports all 559 Socrata portals with a curated civic MCP directory, anti-hallucination framework, and model evaluation framework. [GitHub](https://github.com/npstorey/civic-ai-tools){:target="_blank"}
+- **[Vibe Coding Simulator](https://www.vibecodesim.com/){:target="_blank"}** — Satirical idle game about being a freelance developer in the AI era.
+
 ## Current Role
 
 **Director of Data Governance** at the NYC Office of Technology & Innovation (since February 2024)
 
 - Built the City's first standardized open dataset of NYC agencies - combined 8 scattered internal lists into one public reference of 303 entities, now powers the NYC.gov Agency Directory
 - Co-developed MetaCat, an internal metadata catalog with 325+ data assets across 21 agencies
-- Created open-source tools that let AI systems query NYC Open Data APIs
 
 ## Previous Experience
 
